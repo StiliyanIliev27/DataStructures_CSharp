@@ -1,2 +1,2 @@
 # DataStructures_CSharp
-Repository for Data Structures courses with C# 
+Repository for Data Structures Courses with C#  - SoftUni
