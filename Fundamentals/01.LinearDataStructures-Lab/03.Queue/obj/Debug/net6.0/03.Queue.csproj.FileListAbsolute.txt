@@ -1,0 +1,11 @@
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\03.Queue\bin\Debug\net6.0\03.Queue.deps.json
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\03.Queue\bin\Debug\net6.0\03.Queue.dll
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\03.Queue\bin\Debug\net6.0\03.Queue.pdb
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\03.Queue\obj\Debug\net6.0\03.Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\03.Queue\obj\Debug\net6.0\03.Queue.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\03.Queue\obj\Debug\net6.0\03.Queue.AssemblyInfo.cs
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\03.Queue\obj\Debug\net6.0\03.Queue.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\03.Queue\obj\Debug\net6.0\03.Queue.dll
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\03.Queue\obj\Debug\net6.0\refint\03.Queue.dll
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\03.Queue\obj\Debug\net6.0\03.Queue.pdb
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\03.Queue\obj\Debug\net6.0\ref\03.Queue.dll
