@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\01.List\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1941824-2DC8-44B5-80FB-20B48AFA4249}|01.List.csproj|d:\\programming\\softuni\\data structures fundamentals (with c#)\\01.lineardatastructures-lab\\01.list\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1941824-2DC8-44B5-80FB-20B48AFA4249}|01.List.csproj|solutionrelative:list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93228557-9646-4F05-8E5F-CB193621A80A}|..\\03.Queue\\03.Queue.csproj|d:\\programming\\softuni\\data structures fundamentals (with c#)\\01.lineardatastructures-lab\\03.queue\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1941824-2DC8-44B5-80FB-20B48AFA4249}|01.List.csproj|d:\\programming\\softuni\\data structures fundamentals (with c#)\\01.lineardatastructures-lab\\01.list\\iabstractlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1941824-2DC8-44B5-80FB-20B48AFA4249}|01.List.csproj|solutionrelative:iabstractlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA29B9B2-48E9-48AF-BA5A-0A71953D9201}|..\\04.SinglyLinkedList\\04.SinglyLinkedList.csproj|d:\\programming\\softuni\\data structures fundamentals (with c#)\\01.lineardatastructures-lab\\04.singlylinkedlist\\singlylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1941824-2DC8-44B5-80FB-20B48AFA4249}|01.List.csproj|d:\\programming\\softuni\\data structures fundamentals (with c#)\\01.lineardatastructures-lab\\01.list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1941824-2DC8-44B5-80FB-20B48AFA4249}|01.List.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAA0662-DB15-472C-9E6F-E4559D59AB39}|..\\02.Stack\\02.Stack.csproj|d:\\programming\\softuni\\data structures fundamentals (with c#)\\01.lineardatastructures-lab\\02.stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA29B9B2-48E9-48AF-BA5A-0A71953D9201}|..\\04.SinglyLinkedList\\04.SinglyLinkedList.csproj|d:\\programming\\softuni\\data structures fundamentals (with c#)\\01.lineardatastructures-lab\\04.singlylinkedlist\\iabstractsinglylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,20 +26,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "List.cs",
-              "DocumentMoniker": "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\01.List\\List.cs",
-              "RelativeDocumentMoniker": "List.cs",
-              "ToolTip": "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\01.List\\List.cs",
-              "RelativeToolTip": "List.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "DocumentIndex": 3,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\02.Stack\\Stack.cs",
+              "RelativeDocumentMoniker": "..\\02.Stack\\Stack.cs",
+              "ToolTip": "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\02.Stack\\Stack.cs",
+              "RelativeToolTip": "..\\02.Stack\\Stack.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAUwDQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T13:56:13.978Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-04-25T18:04:36.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\03.Queue\\Queue.cs",
+              "RelativeDocumentMoniker": "..\\03.Queue\\Queue.cs",
+              "ToolTip": "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\03.Queue\\Queue.cs",
+              "RelativeToolTip": "..\\03.Queue\\Queue.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAADwvy8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:54:35.792Z",
               "EditorCaption": ""
             },
             {
@@ -49,14 +65,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IAbstractList.cs",
-              "DocumentMoniker": "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\01.List\\IAbstractList.cs",
-              "RelativeDocumentMoniker": "IAbstractList.cs",
-              "ToolTip": "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\01.List\\IAbstractList.cs",
-              "RelativeToolTip": "IAbstractList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Title": "SinglyLinkedList.cs",
+              "DocumentMoniker": "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\04.SinglyLinkedList\\SinglyLinkedList.cs",
+              "RelativeDocumentMoniker": "..\\04.SinglyLinkedList\\SinglyLinkedList.cs",
+              "ToolTip": "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\04.SinglyLinkedList\\SinglyLinkedList.cs",
+              "RelativeToolTip": "..\\04.SinglyLinkedList\\SinglyLinkedList.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAcwFwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T13:52:35.839Z",
+              "WhenOpened": "2024-04-25T17:34:05.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAbstractSinglyLinkedList.cs",
+              "DocumentMoniker": "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\04.SinglyLinkedList\\IAbstractSinglyLinkedList.cs",
+              "RelativeDocumentMoniker": "..\\04.SinglyLinkedList\\IAbstractSinglyLinkedList.cs",
+              "ToolTip": "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\04.SinglyLinkedList\\IAbstractSinglyLinkedList.cs",
+              "RelativeToolTip": "..\\04.SinglyLinkedList\\IAbstractSinglyLinkedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:34:45.474Z",
               "EditorCaption": ""
             },
             {
@@ -67,7 +96,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\01.List\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T13:51:07.735Z",
               "EditorCaption": ""

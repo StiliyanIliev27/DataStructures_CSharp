@@ -1,11 +1,62 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "02.Stack/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/02.Stack.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/02.Stack.dll": {}
+        }
+      },
+      "03.Queue/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/03.Queue.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/03.Queue.dll": {}
+        }
+      },
+      "04.SinglyLinkedList/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/04.SinglyLinkedList.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/04.SinglyLinkedList.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "02.Stack/1.0.0": {
+      "type": "project",
+      "path": "../02.Stack/02.Stack.csproj",
+      "msbuildProject": "../02.Stack/02.Stack.csproj"
+    },
+    "03.Queue/1.0.0": {
+      "type": "project",
+      "path": "../03.Queue/03.Queue.csproj",
+      "msbuildProject": "../03.Queue/03.Queue.csproj"
+    },
+    "04.SinglyLinkedList/1.0.0": {
+      "type": "project",
+      "path": "../04.SinglyLinkedList/04.SinglyLinkedList.csproj",
+      "msbuildProject": "../04.SinglyLinkedList/04.SinglyLinkedList.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "02.Stack >= 1.0.0",
+      "03.Queue >= 1.0.0",
+      "04.SinglyLinkedList >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Stiliyan\\.nuget\\packages\\": {}
@@ -33,7 +84,17 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\02.Stack\\02.Stack.csproj": {
+              "projectPath": "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\02.Stack\\02.Stack.csproj"
+            },
+            "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\03.Queue\\03.Queue.csproj": {
+              "projectPath": "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\03.Queue\\03.Queue.csproj"
+            },
+            "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\04.SinglyLinkedList\\04.SinglyLinkedList.csproj": {
+              "projectPath": "D:\\Programming\\SoftUni\\Data Structures Fundamentals (with C#)\\01.LinearDataStructures-Lab\\04.SinglyLinkedList\\04.SinglyLinkedList.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "01.List/1.0.0": {
+        "dependencies": {
+          "02.Stack": "1.0.0",
+          "03.Queue": "1.0.0",
+          "04.SinglyLinkedList": "1.0.0"
+        },
+        "runtime": {
+          "01.List.dll": {}
+        }
+      },
+      "02.Stack/1.0.0": {
+        "runtime": {
+          "02.Stack.dll": {}
+        }
+      },
+      "03.Queue/1.0.0": {
+        "runtime": {
+          "03.Queue.dll": {}
+        }
+      },
+      "04.SinglyLinkedList/1.0.0": {
+        "runtime": {
+          "04.SinglyLinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01.List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "02.Stack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "03.Queue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "04.SinglyLinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

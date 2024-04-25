@@ -42,7 +42,7 @@ namespace _03.Queue
         {
             if (head == null)
             {
-                throw new InvalidOperationException();
+                throw new InvalidOperationException("The collection is empty!");
             }
 
             var oldHead = head;
@@ -86,7 +86,7 @@ namespace _03.Queue
         {
             if(head == null)
             {
-                throw new InvalidOperationException();
+                throw new InvalidOperationException("The collection is empty!");
             }
 
             return head.Element;

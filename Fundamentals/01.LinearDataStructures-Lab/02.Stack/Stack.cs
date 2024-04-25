@@ -26,7 +26,7 @@ namespace _02.Stack
         {    
             if (top == null)
             {
-                throw new InvalidOperationException();
+                throw new InvalidOperationException("The collection is empty!");
             }
             
             var current = top;
@@ -47,7 +47,7 @@ namespace _02.Stack
         {
             if(top == null)
             {
-                throw new InvalidOperationException();
+                throw new InvalidOperationException("The collection is empty!");
             }
 
             return top.Element;
@@ -57,7 +57,7 @@ namespace _02.Stack
         {
             if(top == null)
             {
-                throw new InvalidOperationException();
+                throw new InvalidOperationException("The collection is empty!");
             }
 
             var oldTop = top;

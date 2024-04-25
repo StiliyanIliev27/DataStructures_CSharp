@@ -1,0 +1,11 @@
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\04.SinglyLinkedList\bin\Debug\net6.0\04.SinglyLinkedList.deps.json
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\04.SinglyLinkedList\bin\Debug\net6.0\04.SinglyLinkedList.dll
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\04.SinglyLinkedList\bin\Debug\net6.0\04.SinglyLinkedList.pdb
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\04.SinglyLinkedList\obj\Debug\net6.0\04.SinglyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\04.SinglyLinkedList\obj\Debug\net6.0\04.SinglyLinkedList.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\04.SinglyLinkedList\obj\Debug\net6.0\04.SinglyLinkedList.AssemblyInfo.cs
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\04.SinglyLinkedList\obj\Debug\net6.0\04.SinglyLinkedList.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\04.SinglyLinkedList\obj\Debug\net6.0\04.SinglyLinkedList.dll
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\04.SinglyLinkedList\obj\Debug\net6.0\refint\04.SinglyLinkedList.dll
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\04.SinglyLinkedList\obj\Debug\net6.0\04.SinglyLinkedList.pdb
+D:\Programming\SoftUni\Data Structures Fundamentals (with C#)\01.LinearDataStructures-Lab\04.SinglyLinkedList\obj\Debug\net6.0\ref\04.SinglyLinkedList.dll
